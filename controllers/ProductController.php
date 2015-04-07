@@ -141,14 +141,38 @@ class ProductController extends Controller
         			$tempCount = 0; // needed to ensure the correct index
         			$tempData = "";
         			foreach ($_POST['Product']['fk_id_section'] as $id=>$valor) {
-        			//foreach ($model->fk_id_section as $id => $k) {
-        				$tabla->isNewRecord = true;
+        			
+        				/*foreach de categorias
+        				 * */
+        				foreach ($_POST['Product']['fk_id_category'] as $idc=>$valorc) {
+        					
+        					//$tabla->fk_id_category = $valorc;
+        					//$cat = $tabla->fk_id_category;
+        					foreach ($_POST['Product']['fk_id_subcategory'] as $ids=>$valors){
+        						
+        						$tabla->isNewRecord = true;
+        						//$tabla->setPrimaryKey(false);
+        						$tabla->fk_id_product = $model->id_product;
+        						$tabla->fk_id_section = $valor;
+        						//$tabla->fk_id_category = $model->fk_id_category;
+        						$tabla->fk_id_category = $valorc;
+        						//$tabla->fk_id_subcategory = $model->fk_id_subcategory;
+        						$tabla->fk_id_subcategory = $valors;
+        						$tabla->save();
+        						break;
+        					}
+        					
+        					
+        				}
+        				
+        				/* $tabla->isNewRecord = true;
         				//$tabla->setPrimaryKey(false);
         				$tabla->fk_id_product = $model->id_product;
         				$tabla->fk_id_section = $valor;
-        				$tabla->fk_id_category = $model->fk_id_category;
+        				//$tabla->fk_id_category = $model->fk_id_category;
+        				$tabla->fk_id_category = $cat;
         				$tabla->fk_id_subcategory = $model->fk_id_subcategory;
-        				$tabla->save();
+        				$tabla->save(); */
         			}
         		}
         	}

@@ -4,6 +4,8 @@ use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 use yii\helpers\ArrayHelper;
 use app\models\Sections;
+use app\models\Category;
+use app\models\Subcategory;
 
 /* @var $this yii\web\View */
 /* @var $model app\models\Product */
@@ -67,11 +69,26 @@ use app\models\Sections;
     ?>
     <!-- llave de seccion -->
     
+	<!-- llave de categorias -->
+   
+    <?= $form->field($model, 'fk_id_category')->checkboxList(
+    		ArrayHelper::map(Category::find()->all(),'id_category','nombre_categoria')
+    		
+    		)
 
-    <?= $form->field($model, 'fk_id_category')->textInput() ?>
-
-    <?= $form->field($model, 'fk_id_subcategory')->textInput() ?>
+    ?>
+	<!-- fin llave de categorias -->
     
+    <!-- llave de subcategorias -->
+    
+    
+    <?= $form->field($model, 'fk_id_subcategory')->checkboxList(
+    		ArrayHelper::map(Subcategory::find()->all(),'id_subcategory','nombre_subcategoria')
+    		
+    		)
+
+    ?>
+    <!-- fin llave de subcategorias -->
 	
     
 

@@ -45,7 +45,7 @@ class Product extends \yii\db\ActiveRecord
             [['nombre_producto', 'precioMayoristaSinIva', 'precioAlMenorSinIva', 'impuesto', 'precioVentaConIva', 'CantidadStock', ], 'required'],
             [['descripcion1', 'descripcion2'], 'string'],
             [['precioMayoristaSinIva', 'precioAlMenorSinIva', 'impuesto', 'precioVentaConIva'], 'number'],
-            [['CantidadStock',  'fk_id_category', 'fk_id_subcategory'], 'integer'],
+            [['CantidadStock'], 'integer'],
             [['nombre_producto', ], 'string', 'max' => 128],
             [['referencia'], 'string', 'max' => 32],
             [['imagen1', 'imagen2', 'imagen3', 'imagen4', 'imagen5'], 'safe'],
