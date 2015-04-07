@@ -1,0 +1,75 @@
+create table ps_custom_customer(
+idcedula int primary key,
+nombre varchar(50) not null,
+apellido varchar(50) not null,
+direccion varchar(50) not null,
+email varchar(20) not null,
+telefono varchar(20) not null,
+celular varchar(20) not null
+);
+select * from ps_custom_customer;
+CREATE TABLE IF NOT EXISTS `ps_users` (
+  `id_user` int(11) AUTO_INCREMENT NOT NULL,
+   idcedula int not null,
+  `username` varchar(50) NOT NULL,
+  `email` varchar(80) NOT NULL,
+  `password` varchar(250) NOT NULL,
+  `authKey` varchar(250) NOT NULL,
+  `accessToken` varchar(250) NOT NULL,
+  `activate` tinyint(1) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id_user`),
+  FOREIGN KEY (idcedula) REFERENCES ps_custom_customer(idcedula)
+)
+
+CREATE TABLE IF NOT EXISTS `ezp_sections` (
+`id_section` int(10) auto_increment NOT NULL,
+	nombre_seccion varchar(128) not null,
+    descripcion text not null,
+    PRIMARY KEY (id_section)
+) ENGINE=MyISAM;
+
+CREATE TABLE IF NOT EXISTS `ezp_category` (
+    `id_category` int(10) AUTO_INCREMENT NOT NULL,
+    `fk_id_section` int(10) ,
+    `date_add` datetime NOT NULL, 
+    `date_upd` datetime NOT NULL,
+    nombre_categoria varchar(128) not null,
+    descripcion text not null,
+    PRIMARY KEY (id_category),
+    FOREIGN KEY (fk_id_section) REFERENCES ezp_sections(id_section) 
+    ) ENGINE=MyISAM;
+	CREATE TABLE IF NOT EXISTS `ezp_subcategory` (
+	    `id_subcategory` int(10) auto_increment NOT NULL,
+	    `fk_id_category` int(10) ,
+	    nombre_categoria varchar(128) not null,
+	    descripcion text not null,
+	    PRIMARY KEY (id_subcategory), 
+	    FOREIGN KEY (fk_id_category) REFERENCES ezp_category(id_category)
+	    ) ENGINE=MyISAM;
+	    
+	    	CREATE TABLE IF NOT EXISTS `ezp_product` (
+	    `id_product` int(10) auto_increment NOT NULL,
+	    nombre_producto varchar(128) not null,
+	    referencia varchar(32),
+	    descripcion1 text,
+        descripcion2 text,
+        precioMayoristaSinIva decimal(20,6) not null,
+        precioAlMenorSinIva decimal(20,6) not null,
+        impuesto decimal(17,6) not null,
+        precioVentaConIva decimal(20,6) not null,
+        CantidadStock int(10) not null,
+        imagen1 varchar(128) not null,
+        imagen2 varchar(128) not null,
+        imagen3 varchar(128) not null,
+        imagen4 varchar(128),
+        imagen5 varchar(128),
+        primary key(id_product)
+	    ) ENGINE=MyISAM;
+	    
+	    create table ezp_product_category(
+    fk_id_product int(10),
+    fk_id_section int(10),
+    fk_id_category int(10),
+    fk_id_subcategory int(10)
+    )
+    
