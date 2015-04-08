@@ -80,7 +80,7 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
 <!-- menu de clategorias -->
 
 <div class="navbar-inner">
-  <div class="container" style="background: #fff"> 
+  <div class="container" > 
     
     <!-- Mobile toggle button
             <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">

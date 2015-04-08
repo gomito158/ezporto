@@ -1,6 +1,8 @@
 <?php
 
 namespace app\models;
+use yii\helpers\Url;
+use yii\helpers\Html;
 
 use Yii;
 
@@ -80,6 +82,14 @@ class Product extends \yii\db\ActiveRecord
             'fk_id_subcategory' => Yii::t('app', 'Fk Id Subcategory'),
         ];
     }
+    
+    public function getImageUrl()
+    {
+    	return Url::to('@web/uploads/' . $this->imagen1);
+    	//return Html::img('@web/uploads/' . $this->imagen1, ['width'=>'100']);
+    	 
+    }
+    
     
     
 }
