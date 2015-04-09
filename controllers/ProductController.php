@@ -194,8 +194,59 @@ class ProductController extends Controller
     public function actionUpdate($id)
     {
         $model = $this->findModel($id);
+        $tabla = new Product_Category();
+        $msg=null;
+        $section = new Sections();
 
         if ($model->load(Yii::$app->request->post()) && $model->save()) {
+        	
+        	Yii::$app->params['uploadPath'] = Yii::$app->basePath . '/web/uploads/';
+        	
+        	if ($model->load(Yii::$app->request->post())) {
+        	// get the uploaded file instance. for multiple file uploads
+        	// the following data will return an array
+        	$image = UploadedFile::getInstance($model, 'imagen1');
+        	$image2 = UploadedFile::getInstance($model, 'imagen2');
+        	$image3 = UploadedFile::getInstance($model, 'imagen3');
+        	$image4 = UploadedFile::getInstance($model, 'imagen4');
+        	$image5 = UploadedFile::getInstance($model, 'imagen5');
+        	 
+        	// store the source file name
+        	$model->imagen1 = $image->name;
+        	$model->imagen2 = $image2->name;
+        	$model->imagen3 = $image3->name;
+        	$model->imagen4 = $image4->name;
+        	$model->imagen5 = $image5->name;
+        	
+        	$ext = end((explode(".", $image->name)));
+        	$ext2 = end((explode(".", $image2->name)));
+        	$ext3 = end((explode(".", $image3->name)));
+        	$ext4 = end((explode(".", $image4->name)));
+        	$ext5 = end((explode(".", $image5->name)));
+        	 
+        	// generate a unique file name
+        	$model->imagen1 = Yii::$app->security->generateRandomString().".{$ext}";
+        	$model->imagen2 = Yii::$app->security->generateRandomString().".{$ext2}";
+        	$model->imagen3 = Yii::$app->security->generateRandomString().".{$ext3}";
+        	$model->imagen4 = Yii::$app->security->generateRandomString().".{$ext4}";
+        	$model->imagen5 = Yii::$app->security->generateRandomString().".{$ext5}";
+        	 
+        	// the path to save file, you can set an uploadPath
+        	// in Yii::$app->params (as used in example below)
+        	$path = Yii::$app->params['uploadPath'] . $model->imagen1;
+        	$path2 = Yii::$app->params['uploadPath'] . $model->imagen2;
+        	$path3 = Yii::$app->params['uploadPath'] . $model->imagen3;
+        	$path4 = Yii::$app->params['uploadPath'] . $model->imagen4;
+        	$path5 = Yii::$app->params['uploadPath'] . $model->imagen5;
+        	if($model->save()){
+        		$image->saveAs($path);
+        		$image2->saveAs($path2);
+        		$image3->saveAs($path3);
+        		$image4->saveAs($path4);
+        		$image5->saveAs($path5);
+        		//return $this->redirect(['view', 'id'=>$model->_id]);
+        	}
+        	}
             return $this->redirect(['view', 'id' => $model->id_product]);
         } else {
             return $this->render('update', [

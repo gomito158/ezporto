@@ -94,9 +94,9 @@ $this->params['breadcrumbs'][] = $this->title;
             		'value'=>'/ezporto/web/uploads/'.$model->imagen5,
             		'format'=>	['image',['width'=>'100','height'=>'100']],
     ),
-            'fk_id_section',
-            'fk_id_category',
-            'fk_id_subcategory',
+           // 'fk_id_section',
+            //'fk_id_category',
+          //  'fk_id_subcategory',
         ],
     ]) ?>
 

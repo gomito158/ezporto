@@ -14,7 +14,7 @@ use yii\grid\SerialColumn;
 use yii\grid\DataColumn;
 use yii\widgets\LinkPager;
 use yii\widgets;
-
+use yii\data\Pagination;
 /* @var $this yii\web\View */
 $this->title = 'construction';
 $this->params['breadcrumbs'][] = $this->title;
@@ -31,21 +31,27 @@ $this->params['breadcrumbs'][] = $this->title;
 			'pc.fk_id_product','pc.fk_id_section',
 			'pc.fk_id_category','pc.fk_id_section'])
 			->from('ezp_product_category pc')
-			->join('INNER JOIN','ezp_product pr','pc.fk_id_product = pr.id_product')
+			/* ->join('INNER JOIN','ezp_product pr','pc.fk_id_product = pr.id_product')
 			->join('inner join','ezp_subcategory sub','sub.id_subcategory = pc.fk_id_subcategory')
 			->join('inner join','ezp_category cat','pc.fk_id_category = cat.id_category')
-			->join('inner join', 'ezp_sections sec','pc.fk_id_section = sec.id_section')
-			->orderBy('pc.fk_id_section ASC')
+			->join('inner join', 'ezp_sections sec','pc.fk_id_section = sec.id_section') */
+			->innerJoin('ezp_product pr','pc.fk_id_product = pr.id_product')
+			->innerJoin('ezp_subcategory sub','sub.id_subcategory = pc.fk_id_subcategory')
+			->innerJoin('ezp_category cat','pc.fk_id_category = cat.id_category')
+			->innerJoin('ezp_sections sec','pc.fk_id_section = sec.id_section')
+			->orderBy('pr.nombre_producto desc')
 			;
 	
 			$command = $query->createCommand();
+			$count = $command->queryScalar();
 			$img = $command->queryAll();
 			
 			$dataProvider = $img;
 			$dataProvider = new SqlDataProvider(
 					[
 							'sql' => 'select 	nombre_producto,  concat("/ezporto/web/uploads/",imagen1) as imagen1,
-							concat("/ezporto/web/uploads/",imagen2) as imagen2
+									concat("/ezporto/web/uploads/",imagen2) as imagen2, referencia,precioVentaConIva,
+									CantidadStock,descripcion1
 									from ezp_product_category pc
 									INNER JOIN ezp_product pr ON
 									pc.fk_id_product = pr.id_product
@@ -59,6 +65,7 @@ $this->params['breadcrumbs'][] = $this->title;
 									ORDER BY pc.fk_id_section ASC
 			
 		    				',
+							//'totalCount' => $count,
 							'sort' => [
 									'attributes' => [
 											'nombre_producto',
@@ -67,21 +74,24 @@ $this->params['breadcrumbs'][] = $this->title;
 			
 									],
 							],
-							'pagination'=>array(
+							
+							'pagination'=>[
 
-            'pageSize'=>5
-
-        ),	
+            	'pageSize' => 50,
+		        //'page' => $this->page,
+		        'pageSizeLimit' => [1,10],
+		        'pageSizeParam' => 'per_page',
+				'totalCount' => $count,
+        ],	
 							
 			
 			
 					]
 			);
 			
-			$model = $dataProvider->getModels();
 			
-			$path_picture = realpath( Yii::$app->getBasePath()."/uploads" )."/";
-			$imagen1 = 'imagen1';
+			
+			
 	
 	?>
 
@@ -94,9 +104,9 @@ $this->params['breadcrumbs'][] = $this->title;
     <p>
         Sitio en Construcci&oacute;n
     </p>
-    <img alt="construction" src="./images/construction.png">
+    <!-- <img alt="construction" src="./images/construction.png"> -->
 	<div>
-	<?php \yii\widgets\Pjax::begin(['timeout' => 10000, 'clientOptions' => ['container' => 'pjax-container']]); ?>
+	
     <?php
 
  
@@ -106,26 +116,13 @@ $this->params['breadcrumbs'][] = $this->title;
     
     //'filterModel' => $searchModel,
     'columns' => [
-        ['class' => SerialColumn::className()],
-
-        //definimos los campos que se desean mostrar que vienen en el dataprovider
-        'nombre_producto',
-    	
-    	[
-    		//se define el formato de imagen y pasa el paranetro de imagen1	
-    		'class' => DataColumn::className(),
-    		'label' => 'imagen',	
-		    'format' => ['image',['width'=>'100','height'=>'100']],
-		    /* 'value' => function ($model) {
-		        return $model->getImageUrl(); 
-		    },	 */	    
-    			'value' => ($imagen1),
-    			
-    			
-		    //'contentOptions'=>['style'=>'width: 2%;'] 
-		],
-    	
-       'xxx',
+        	['class' => SerialColumn::className()],
+        	//definimos los campos que se desean mostrar que vienen en el dataprovider
+        	'nombre_producto',
+       		'referencia',
+    		'descripcion1',
+    		'precioVentaConIva',
+    		'CantidadStock',
     		[
     		//se define el formato de imagen y pasa el paranetro de imagen1
     		'label' => 'imagen',
@@ -145,10 +142,16 @@ $this->params['breadcrumbs'][] = $this->title;
     		//['class' => 'yii\grid\ActionColumn'],
     ],
     
-     		'tableOptions'=>['class'=>'table table-condensed']
+     		//'tableOptions'=>['class'=>'table table-condensed']
     
 		]); 
      ?>
-      <?php \yii\widgets\Pjax::end(); ?>
+     <?php 
+     echo \yii\widgets\LinkPager::widget([
+     		'pagination'=>$dataProvider->pagination,
+     ]);
+     
+     ?>
+      
      </div>
 </div>
