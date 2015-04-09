@@ -83,12 +83,7 @@ class Product extends \yii\db\ActiveRecord
         ];
     }
     
-    public function getImageUrl()
-    {
-    	return Url::to('@web/uploads/' . $this->imagen1);
-    	//return Html::img('@web/uploads/' . $this->imagen1, ['width'=>'100']);
-    	 
-    }
+  
     
     
     
