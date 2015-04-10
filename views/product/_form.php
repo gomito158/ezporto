@@ -7,6 +7,8 @@ use app\models\Sections;
 use app\models\Category;
 use app\models\Subcategory;
 
+use kartik\widgets\DepDrop;
+
 /* @var $this yii\web\View */
 /* @var $model app\models\Product */
 /* @var $form yii\widgets\ActiveForm */
@@ -90,6 +92,30 @@ use app\models\Subcategory;
     ?>
     <!-- fin llave de subcategorias -->
 	
+	
+	<?php 
+	/* $catList;
+		echo $form->field($model, 'cat')->dropDownList('', ['id'=>'cat-id']);
+ 
+		// Child # 1
+		echo $form->field($model, 'subcat')->widget(DepDrop::classname(), [
+		    'options'=>['id'=>'subcat-id'],
+		    'pluginOptions'=>[
+		        'depends'=>['cat-id'],
+		        'placeholder'=>'Select...',
+		        'url'=>Url::to(['/site/subcat'])
+		    ]
+		]);
+		 
+		// Child # 2
+		echo $form->field($model, 'prod')->widget(DepDrop::classname(), [
+		    'pluginOptions'=>[
+		        'depends'=>['cat-id', 'subcat-id'],
+		        'placeholder'=>'Select...',
+		        'url'=>Url::to(['/site/prod'])
+		    ]
+		]); */
+	?>
     
 
     <div class="form-group">

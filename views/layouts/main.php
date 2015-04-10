@@ -32,7 +32,7 @@ style='pointer-events: auto;
     <div class="wrap">
         <?php
             NavBar::begin([
-                'brandLabel' => 'My Company',
+                'brandLabel' => '',
                 'brandUrl' => Yii::$app->homeUrl,
                 'options' => [
                     'class' => '',
@@ -41,9 +41,9 @@ style='pointer-events: auto;
             echo Nav::widget([
                 'options' => ['class' => 'navbar-nav navbar-right'],
                 'items' => [
-                    ['label' => 'Home', 'url' => ['/site/index']],
-                    ['label' => 'About', 'url' => ['/site/about']],
-                    ['label' => 'Contact', 'url' => ['/site/contact']],
+                    ['label' => 'Inicio', 'url' => ['/site/index']],
+                    ['label' => 'Acerca De', 'url' => ['/site/about']],
+                    ['label' => 'Contactenos', 'url' => ['/site/contact']],
                     Yii::$app->user->isGuest ?
                         ['label' => 'Login', 'url' => ['/site/login']] :
                         ['label' => 'Logout (' . Yii::$app->user->identity->username . ')',
@@ -63,9 +63,9 @@ style='pointer-events: auto;
     </div>
 
     <footer class="footer">
-        <div class="container">
-            <p class="pull-left">&copy; My Company <?= date('Y') ?></p>
-            <p class="pull-right"><?= Yii::powered() ?></p>
+        <div class="container" >
+            <p class="pull-left" style="text-align: center;">&copy; EZPORTO TIENDA ONLINE <?= date('Y') ?></p>
+            
         </div>
     </footer>
 

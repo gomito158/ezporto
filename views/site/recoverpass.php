@@ -9,9 +9,10 @@ $this->params['breadcrumbs'][] = $this->title;
  
  Crear la vista recoverpass.php formulario desde el cual el usuario deberá introducir su email 
  --> 
+ <div style="  margin: 0% 0% 0% 7%;">
 <h3><?= $msg ?></h3>
   
-<h1>Recover Password</h1>
+<h1>Recuperar Contrase&ntilde;a</h1>
 <?php $form = ActiveForm::begin([
     'method' => 'post',
     'enableClientValidation' => true,
@@ -25,3 +26,4 @@ $this->params['breadcrumbs'][] = $this->title;
 <?= Html::submitButton("Recuperar Password", ["class" => "btn btn-primary"]) ?>
   
 <?php $form->end() ?>
+</div>

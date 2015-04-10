@@ -77,9 +77,9 @@ class Product extends \yii\db\ActiveRecord
             'imagen3' => Yii::t('app', 'Imagen3'),
             'imagen4' => Yii::t('app', 'Imagen4'),
             'imagen5' => Yii::t('app', 'Imagen5'),
-            'fk_id_section' => Yii::t('app', 'Fk Id Section'),
-            'fk_id_category' => Yii::t('app', 'Fk Id Category'),
-            'fk_id_subcategory' => Yii::t('app', 'Fk Id Subcategory'),
+            'fk_id_section' => Yii::t('app', 'Seccion'),
+            'fk_id_category' => Yii::t('app', 'Categoria'),
+            'fk_id_subcategory' => Yii::t('app', 'Subcategoria'),
         ];
     }
     

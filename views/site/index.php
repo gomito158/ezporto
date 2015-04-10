@@ -465,12 +465,12 @@ carrusel de imagenes de portada
       <table cellpadding="0" cellspacing="0" style="width: 20px;">
         <tbody>
           <tr>
-            <td><img style="margin: 0% 13% 0%;"
+            <td><img style="margin: 0% 0% 0% 17%;"
 								src="images/150310-produktlist.jpg"
 								alt="150219-productlist-sneakermania-1"></td>
           </tr>
           <tr>
-            <td><div class="bannertext"> <span style="text-transform: uppercase; font-weight: bold;"></span> <br>
+            <td><div style="float: left; margin: 0px 0px 0px 17%;"> <span style="text-transform: uppercase; font-weight: bold;"></span> <br>
                 <br>
                 <table width="930px">
                   <tbody>
@@ -520,7 +520,7 @@ carrusel de imagenes de portada
         </tbody>
       </table>
     </dl>
-    <div id="container-img" style="margin: 55px">
+    <div id="container-img" style="margin: 55px 0% 0% 7%;">
       <dl class="tips" cssname=""
 				style="display: inline; float: left; margin-right: 15px; margin-bottom: 12px; position: relative;">
         <table cellpadding="0" cellspacing="0" style="width: 20px; margin-left: 73px;">
@@ -550,7 +550,7 @@ carrusel de imagenes de portada
         </table>
       </dl>
       </div>
-      <div id="container-img" style="margin: 55px">
+      <div id="container-img" style="margin: 55px 0% 0% 7%;">
       <dl class="tips" cssname=""
 				style="display: inline; float: left; margin-right: 15px; margin-bottom: 12px; position: relative;">
         <table cellpadding="0" cellspacing="0" style="width: 20px; margin-left: 73px;">
@@ -580,7 +580,7 @@ carrusel de imagenes de portada
         </table>
       </dl>
       </div>
-      <div id="container-img" style="margin: 55px">
+      <div id="container-img" style="margin: 55px 0% 0% 7%;">
       <dl class="tips" cssname=""
 				style="display: inline; float: left; margin-right: 15px; margin-bottom: 12px; position: relative;">
         <table cellpadding="0" cellspacing="0" style="width: 20px; margin-left: 73px;">

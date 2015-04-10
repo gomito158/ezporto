@@ -10,7 +10,7 @@ use yii\helpers\Url;
 $this->title = 'Login';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
-<div class="site-login" >
+<div class="site-login" style="  margin: 0% 0% 0% 10%;" >
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>Ingrese su información a continuación para acceder a su cuentan:</p>
@@ -45,6 +45,10 @@ $this->params['breadcrumbs'][] = $this->title;
         </div>
         
     </div>
+    
+    
+  
+    
 
     <?php ActiveForm::end(); ?>
 
