@@ -16,6 +16,6 @@ $this->params['breadcrumbs'][] = $this->title;
     <p>Entre estos nuevos conceptos de ropa se encuentran: Casualwear y Sportwear (snowboard, skateboard, surf, etc.).
     </p>
 
-    <code><?= __FILE__ ?></code>
+    
     </div>
 </div>

@@ -13,7 +13,7 @@ $this->params['breadcrumbs'][] = $this->title;
 <div class="site-login" style="  margin: 0% 0% 0% 10%;" >
     <h1><?= Html::encode($this->title) ?></h1>
 
-    <p>Ingrese su información a continuación para acceder a su cuentan:</p>
+    <p>Ingrese su informaci&iacute;n a continuaci&oacute;n para acceder a su cuentan:</p>
 
     <?php $form = ActiveForm::begin([
         'id' => 'login-form',
@@ -52,8 +52,5 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <?php ActiveForm::end(); ?>
 
-    <div class="col-lg-offset-1" style="color:#999;">
-        You may login with <strong>admin/admin</strong> or <strong>demo/demo</strong>.<br>
-        To modify the username/password, please check out the code <code>app\models\User::$users</code>.
-    </div>
+    
 </div>

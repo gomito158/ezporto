@@ -101,54 +101,54 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Zapatos</li>                
-                <li><a href="?r=site/construction">Entrenamiento</a></li>
+                <li><a href="?r=site/construction">Entrenamiento &emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Running</a></li>
                 <li><a href="?r=site/construction">Camping/Monta&ntilde;ismo</a></li>
-                <li><a href="?r=site/construction">F&uacute;tbol</a></li>
-                <li><a href="?r=site/construction">Baloncesto</a></li>
-                <li><a href="?r=site/construction">Baseball</a></li>
-                <li><a href="?r=site/construction">Tennis</a></li>
-                <li><a href="?r=site/construction">Ciclismo</a></li>
+                <li><a href="?r=site/construction">F&uacute;tbol &emsp;&emsp;&emsp;&emsp; </a></li>
+                <li><a href="?r=site/construction">Baloncesto &emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Baseball &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Ciclismo &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Estilo Deportivio</a></li>
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Ropa</li>                
-                <li><a href="?r=site/construction">Camisetas</a></li>
-                <li><a href="?r=site/construction">Camisillas</a></li>
-                <li><a href="?r=site/construction">Busos & Camibusos</a></li>
-                <li><a href="?r=site/construction">Chaquetas</a></li>
-                <li><a href="?r=site/construction">Sudaderas</a></li>    
-                <li><a href="?r=site/construction">Pantalonetas</a></li>    
-                <li><a href="?r=site/construction">Pantalones & Licras</a></li>             
-                <li><a href="?r=site/construction">Conjuntos</a></li>
-                <li><a href="?r=site/construction">Trajes de Ba&ntilde;o</a></li>
+                <li><a href="?r=site/construction">Camisetas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Camisillas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Busos & Camibusos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Chaquetas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Sudaderas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>    
+                <li><a href="?r=site/construction">Pantalonetas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>    
+                <li><a href="?r=site/construction">Pantalones & Licras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>             
+                <li><a href="?r=site/construction">Conjuntos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Trajes de Ba&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Camisetas de Equipos</a></li>
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Accesorios</li>                
-                <li><a href="?r=site/construction">Bolsos & Ri&ntilde;oneras</a></li>
-                <li><a href="?r=site/construction">Gorras</a></li>
+                <li><a href="?r=site/construction">Bolsos & Ri&ntilde;oneras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Gorras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Medias</a></li>                
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Deportes</li>                
-                <li><a href="?r=site/construction">F&uacute;tbol</a></li>
-                <li><a href="?r=site/construction">Baloncesto</a></li>
-                <li><a href="?r=site/construction">Baseball</a></li>
-                <li><a href="?r=site/construction">Running</a></li>
-                <li><a href="?r=site/construction">Rugby</a></li>
-                <li><a href="?r=site/construction">Tennis</a></li>
-                <li><a href="?r=site/construction">Ciclismo</a></li>
-                <li><a href="?r=site/construction">Nataci&oacute;n</a></li>
-                <li><a href="?r=site/construction">Golf</a></li>
-                <li><a href="?r=site/construction">Patinaje</a></li>
-                <li><a href="?r=site/construction">Artes Marciales</a></li>   
+                <li><a href="?r=site/construction">F&uacute;tbol &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Baloncesto &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Baseball &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Running &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Rugby &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Ciclismo &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Nataci&oacute;n &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Golf &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Patinaje &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Artes Marciales &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>   
                 <li><a href="?r=site/construction">Camping / Monta&ntilde;ismo</a></li>             
               </ul>
             </li>
@@ -164,11 +164,11 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Zapatos</li>                
-                <li><a href="?r=site/construction"> Entrenamiento</a></li>
-                <li><a href="?r=site/construction">Running</a></li>
+                <li><a href="?r=site/construction"> Entrenamiento &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Running &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Camping / Monta&ntilde;ismo</a></li>
-                <li><a href="?r=site/construction">F&uacute;tbol</a></li>
-                <li><a href="?r=site/construction">Tennis</a></li>
+                <li><a href="?r=site/construction">F&uacute;tbol &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Estilo Deportivo</a></li>                
               </ul>
             </li>
@@ -176,13 +176,13 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
               <ul>
                 <li class="nav-header">Ropa</li>                
                 <li><a href="?r=site/construction">Tops / Brasier / Sujetadores</a></li>
-                <li><a href="?r=site/construction">Faldas & Vestidos</a></li>
-                <li><a href="?r=site/construction">Shorts</a></li>
-                <li><a href="?r=site/construction">Pantalones & Licras</a></li>
-                <li><a href="?r=site/construction">Sudaderas</a></li>
-                <li><a href="?r=site/construction">Trajes de Ba&ntilde;o</a></li>              
-                <li><a href="?r=site/construction">Conjuntos</a></li>
-                <li><a href="?r=site/construction">Camisas</a></li>
+                <li><a href="?r=site/construction">Faldas & Vestidos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Shorts &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Pantalones & Licras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Sudaderas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Trajes de Ba&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>              
+                <li><a href="?r=site/construction">Conjuntos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Camisas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Chaquetas</a></li>
                 
               </ul>
@@ -190,21 +190,21 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Accesorios</li>                
-                <li><a href="?r=site/construction">Maletas & Bolsos</a></li>
-                <li><a href="?r=site/construction">Ri&ntilde;oneras</a></li>
-                <li><a href="?r=site/construction">Gorras & Viseras</a></li>
-                <li><a href="?r=site/construction">Medias</a></li>
+                <li><a href="?r=site/construction">Maletas & Bolsos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Ri&ntilde;oneras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Gorras & Viseras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Medias &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Cintillos</a></li>                
               </ul>
              </li>
              <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Deportes</li>                
-                <li><a href="?r=site/construction">Entrenamiento</a></li>
-                <li><a href="?r=site/construction">Running</a></li>
-                <li><a href="?r=site/construction">Tennis</a></li>
-                <li><a href="?r=site/construction">Yoga</a></li>
-                <li><a href="?r=site/construction">Nataci&oacute;n</a></li>
+                <li><a href="?r=site/construction">Entrenamiento &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Running &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Yoga &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Nataci&oacute;n &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Camping / Monta&ntilde;ismo</a></li>                              
               </ul>
              </li>
@@ -221,38 +221,38 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">BEBES (0 - 4 A&ntilde;OS)</li>                
-                <li><a href="?r=site/construction">Ropa</a></li>
-                <li><a href="?r=site/construction">Calzado</a></li>
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Calzado &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>                
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">NI&ntilde;OS ( 4 - 8 A&ntilde;OS)</li>                
-                <li><a href="?r=site/construction">Ropa de Ni&ntilde;o</a></li>
-                <li><a href="?r=site/construction">Ropa de Ni&ntilde;a</a></li>
-                <li><a href="?r=site/construction">Calzado de Ni&ntilde;o</a></li>
-                <li><a href="?r=site/construction">Calzado de Ni&ntilde;a</a></li>
+                <li><a href="?r=site/construction">Ropa de Ni&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Ropa de Ni&ntilde;a &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Calzado de Ni&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Calzado de Ni&ntilde;a &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>               
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">NI&ntilde;OS Y JOVENES ( 8 - 14 A&ntilde;OS)</li>                
-                <li><a href="?r=site/construction">Ropa de Ni&ntilde;o</a></li>
-                <li><a href="?r=site/construction">Ropa de Ni&ntilde;a</a></li>
-                <li><a href="?r=site/construction">Calzado de Ni&ntilde;o</a></li>
-                <li><a href="?r=site/construction">Calzado de Ni&ntilde;a</a></li>
+                <li><a href="?r=site/construction">Ropa de Ni&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Ropa de Ni&ntilde;a &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Calzado de Ni&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Calzado de Ni&ntilde;a &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li> 
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Deportes</li>                
-                <li><a href="?r=site/construction">F&uacute;tbol</a></li>
-                <li><a href="?r=site/construction">Baloncesto</a></li>
-                <li><a href="?r=site/construction">Nataci&oacute;n</a></li> 
-                <li><a href="?r=site/construction">Tennis</a></li>  
+                <li><a href="?r=site/construction">F&uacute;tbol &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Baloncesto &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Nataci&oacute;n &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li> 
+                <li><a href="?r=site/construction">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
                 <li><a href="?r=site/construction">Patineta</a></li>                               
               </ul>
              </li>
@@ -268,111 +268,111 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">F&uacute;tbol</li>                
-                <li><a href="?r=site/construction">Guayos</a></li>
-                <li><a href="?r=site/construction">Ropa</a></li>  
-                <li><a href="?r=site/construction">Accesorios</a></li> 
-                <li><a href="?r=site/construction">Selecci&oacute;n Colombia</a></li>          
+                <li><a href="?r=site/construction">Guayos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=site/construction">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li> 
+                <li><a href="?r=site/construction">Selecci&oacute;n Colombia &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>          
                 <li><a href="?r=site/construction">Uniformes de Equipos</a></li>       
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Running</li>                
-                <li><a href="?r=site/construction">Zapatos</a></li>
-                <li><a href="?r=site/construction">Ropa</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>                
+                <li><a href="?r=site/construction">Zapatos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>                
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Baloncesto</li>                
-                <li><a href="?r=site/construction">Zapato</a></li>  
-                <li><a href="?r=site/construction">Ropa</a></li>
+                <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>               
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Entrenamiento</li>                
-                <li><a href="?r=site/construction">Zapato</a></li>  
-                <li><a href="?r=site/construction">Ropa</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>  
+                <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=site/construction">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
                 <li><a href="?r=site/construction">Gym</a></li>                  
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Tennis</li>                
-                <li><a href="?r=site/construction">Zapato</a></li>  
-                <li><a href="?r=site/construction">Ropa</a></li>
+                <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>               
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
-                <li class="nav-header">Bádminton</li>                
-                <li><a href="?r=site/construction">Zapato</a></li>  
-                <li><a href="?r=site/construction">Ropa</a></li>
+                <li class="nav-header">B&aacute;dminton</li>                
+                <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>               
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Acuaticos</li>                
-                <li><a href="?r=site/construction">Trajes de Ba&ntilde;o</a></li>                
-                <li><a href="?r=site/construction">Accesorios</a></li>               
+                <li><a href="?r=site/construction">Trajes de Ba&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>                
+                <li><a href="?r=site/construction">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>               
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Golf</li>                
-                 <li><a href="?r=site/construction">Zapato</a></li>  
-                <li><a href="?r=site/construction">Ropa</a></li>
+                 <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Baseball</li>                
-                 <li><a href="?r=site/construction">Zapato</a></li>  
-                <li><a href="?r=site/construction">Ropa</a></li>
+                 <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Ciclismo</li>                
-                 <li><a href="?r=site/construction">Zapato</a></li>  
-                <li><a href="?r=site/construction">Ropa</a></li>
+                 <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Patinaje</li>                
-                 <li><a href="?r=site/construction">Patines</a></li>  
-                <li><a href="?r=site/construction">Ropa</a></li>
+                 <li><a href="?r=site/construction">Patines &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Artes Marciales</li>                 
-                <li><a href="?r=site/construction">Ropa</a></li>
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>                   
               </ul>
             </li>
              <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Rugby</li>                 
-                <li><a href="?r=site/construction">Ropa</a></li>
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Extremos</li>                 
-                <li><a href="?r=site/construction">Ropa</a></li>
+                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
                 <li><a href="?r=site/construction">Accesorios</a></li>                   
               </ul>
             </li>
@@ -448,7 +448,7 @@ carrusel de imagenes de portada
         <td align="center" width="330"><font size="4" color="#ffffff"><b>Envio
           gratis</b> </font><br></td>
         <td align="center" width="330"><font size="4"><b> <font
-								color="#ffffff"> &nbsp;2-4 dagars leveranstid </font></b> </font></td>
+								color="#ffffff"> &nbsp;2-4 entrega de días </font></b> </font></td>
       </tr>
     </tbody>
   </table>
@@ -713,48 +713,54 @@ carrusel de imagenes de portada
 													alt=""></td>
                     </tr>
                     <tr>
-                      <td valign="top">Vi har bestämt oss. Alla ska ha råd
-                        med ett aktivt liv. Därför erbjuder vi alltid riktigt bra
-                        priser på skor, kläder och allt annat inom sport och
-                        sportmode, toppat med rätt funktioner, bra kvalitet och den
-                        senaste designen. Så att du alltid får mest för pengarna
-                        hos oss. I varje prisklass.&nbsp; <br>
+                      <td valign="top">Hemos decidido. Todo el mundo debería tener la
+                         con una vida activa. Por lo tanto, siempre es muy bueno
+                         precios en los zapatos, ropa y todo lo demás en el deporte y
+                         moda deportiva, cubierto con las características adecuadas, de buena calidad y la
+                         últimos diseños. Así que siempre obtener el máximo por su dinero
+                         con nosotros. En cada rango de precios.&nbsp; <br>
                         <br>
-                        Välkommen till en sportbutik i toppform! </td>
-                      <td valign="top">Hos oss handlar du alltid tryggt och
-                        enkelt, till bästa pris. Du blir nöjd, helt enkelt. Det kan
-                        vi faktiskt garantera. <br>
+                        Bienvenidos a una tienda de deportes en plena forma! </td>
+                      <td valign="top">Con nosotros, usted es siempre seguro y
+                         simplemente, al mejor precio. Usted estará satisfecho, simplemente. puede
+                         en realidad nos garantizamos. <br>
                         <a
-													href="http://www.stadium.se/om-stadium/arkiv/garanterat-nojd"> <u> <b> Läs mer här. </b> </u> </a> <br>
+													href="#"> <u> <b> Läs mer här. </b> </u> </a> <br>
                         <br>
-                        <b>- Sveriges bästa sportbonus, upp
-                        till 10% <br>
-                        - Stöd din förening - bonus till alla! <br>
-                        - Garanterat nöjd - löparskor <br>
-                        - Öppet
-                        köp i 365 dagar <br>
-                        - Prisgaranti </b></td>
+                        <b>- Mejor bono de deportes hasta de 
+                         10% <br>
+                        
+- Apoye a su club - bono a todos!
+                         - Satisfacción garantizada - Running Shoes
+                         - Abierta
+                         365 días <br>
+                        - Garantía de precio </b></td>
                       <td valign="top" width="230"><img
 													src="http://www.stadium.se/is-bin/intershop.static/WFS/Stadium-Site/Stadium/sv_SE/stadium/images/Diverse/garanterat-nojd/delivery.jpg"
 													alt=""> <br>
                         <br>
-                        <b> - Fri frakt till
-                        butik* <br>
-                        - Fri frakt över 500:-*&nbsp; </b> <b><br>
-                        - Tungt gods 399: -<br>
-                        </b><b> - 365
-                        dagars öppet köp </b><br>
-                        <b>- Returnera i
-                        butik&nbsp; <br>
-                        </b>*Gäller ej tungt gods</td>
-                      <td valign="top" width="150"><img
+                        <b> 
+						- Envío gratis a
+                         tienda * <br>
+                        
+						- Envío gratis a más de 500: - *&nbsp; </b> <b><br>
+                        - Carga pesada 399: -<br>
+                        </b><b>
+						- 365
+                         días de compra</b><br>
+                        <b>- Retorno de la
+                         tienda&nbsp; <br>
+                        </b>
+						* No se aplica a las mercancías pesadas</td>
+                      	<td valign="top" width="150"><img
 													src="http://www.stadium.se/is-bin/intershop.static/WFS/Stadium-Site/Stadium/sv_SE/stadium/images/Diverse/garanterat-nojd/betalning.jpg"
 													alt=""> <br>
                         <br>
                         <b>- Klarna
-                        faktura&nbsp; <br>
-                        - Direktbank<br>
-                        - Kort </b></td>
+                        factura&nbsp; <br>
+                        
+						- El banco directo<br>
+                        - Mapa </b></td>
                     </tr>
                   </tbody>
                 </table>
@@ -784,43 +790,48 @@ carrusel de imagenes de portada
       </tr>
       <tr>
         <td width="55"></td>
-        <td align="left" valign="center"><font color="#ffffff" size="2"><img src="images/questionmark.png" height="17" width="17"><b> KUNDSUPPORT</b> <br>
+        <td align="left" valign="center"><font color="#ffffff" size="2"><img src="images/questionmark.png" height="17" width="17"><b> 
+SERVICIO AL CLIENTE</b> <br>
           </font></td>
-        <td align="left"><font color="#ffffff" size="2"><img src="images/man.png" height="17" width="17"><b> MEDLEM</b> <br>
+        <td align="left"><font color="#ffffff" size="2"><img src="images/man.png" height="17" width="17"><b> MIEMBROS</b> <br>
           </font></td>
-        <td align="left"><font color="#ffffff" size="2"><img src="images/bubbla.png" height="17" width="17"><b> ÖVRIGT</b> <br>
+        <td align="left"><font color="#ffffff" size="2"><img src="images/bubbla.png" height="17" width="17"><b> 
+OTRAS</b> <br>
           </font></td>
-        <td align="left"><font color="#ffffff" size="2"><img src="images/runman.png" height="17" width="17"><b> FÖLJ OSS:</b> <br>
+        <td align="left"><font color="#ffffff" size="2"><img src="images/runman.png" height="17" width="17"><b> SÍGUENOS:</b> <br>
           </font></td>
         <td align="left" valign="bottom"><font color="#ffffff" size="2"><img src="images/shopping-cart.png" height="17" width="17"><b> SHOP ONLINE</b><br>
           </font></td>
-        <td align="left" valign="bottom"><font color="#ffffff" size="2"><img src="images/info2.png" height="17" width="17"><b> FÖRETAGET</b><br>
+        <td align="left" valign="bottom"><font color="#ffffff" size="2"><img src="images/info2.png" height="17" width="17"><b> EMPRESA</b><br>
           </font></td>
         <td width="15"></td>
       </tr>
       <tr>
         <td width="15"></td>
-        <td align="left" valign="top" width="165"><font color="#AAA;" size="2"><a href="http://www.stadium.se/kundservice"><font size="2" style="color:#AAA;">FRÅGOR OCH SVAR</font></a> <br>
-          <a href="http://www.stadium.se/kontakta-oss" style="color:#AAA;">KONTAKTA OSS</a> </font></td>
-        <td align="left" valign="top" width="165"><font color="#ffffff" size="2"><a href="https://www.stadium.se/is-bin/INTERSHOP.enfinity/WFS/Stadium-SwedenB2C-Site/sv_SE/-/SEK/cc_ViewUser-Dispatch?DefaultButton=start&amp;TopMenuSelected=my_page&amp;icid=0226" rel="nofollow" style="color:#AAA;">MIN SIDA</a> <br>
-          <a href="http://www.stadium.se/om-stadium/stadium-member/bli-medlem-idag" rel="nofollow" style="color:#AAA;">BLI MEDLEM IDAG!</a> <br>
-          <a href="http://www.stadium.se/magazine" rel="nofollow" target="_blank" style="color:#AAA;">STADIUM MAGAZINE</a><br>
-          <a href="http://www.stadium.se/memberprice" rel="nofollow" style="color:#AAA;">MEDLEMSPRISER</a></font></td>
-        <td align="left" valign="top" width="165"><font color="#ffffff" size="2"><a href="http://www.stadiumteamsales.se/" rel="nofollow" style="color:#AAA;">TEAMSALES</a> <br>
-          <a href="http://www.stadiumsportscamp.se/" rel="nofollow" style="color:#AAA;">SPORTSCAMP</a><br>
-          <a href="http://www.stadium.se/om-stadium/koncernen/stadium-outlet-oppettider-och-information" rel="nofollow" style="color:#AAA;">STADIUM OUTLET</a></font></td>
-        <td align="left" valign="top" width="165"><font color="#ffffff" size="2"><font color="#ffffff"><a href="http://www.facebook.com/stadium.sverige" target="_blank" style="color:#AAA;">FACEBOOK</a> <br>
-          <font size="2"><a href="http://www.youtube.com/user/StadiumSweden?blend=2&amp;ob=5" rel="nofollow" target="_blank" style="color:#AAA;">YOUTUBE</a><br>
-          <font size="2"><a href="http://instagram.com/stadium_jointhemovement" target="_blank" style="color:#AAA;">INSTAGRAM</a></font></font></font></font></td>
-        <td align="left" valign="top" width="165"><div><font size="2"><font size="2"><font color="#ffffff" size="2"><a href="http://www.stadium.se/is-bin/INTERSHOP.enfinity/WFS/Stadium-SwedenB2C-Site/sv_SE/-/SEK/cc_ViewOffers-Offers" rel="nofollow" style="color:#AAA;" target="_self">PAKETERBJUDANDEN</a></font><br>
-            <font color="#ffffff" size="2"><a href="http://www.stadium.se/om-stadium/stadium-se/kopvillkor-pa-stadium-se" rel="nofollow" target="_self" style="color:#AAA;">KÖPVILLKOR</a><br>
-            <a href="http://www.stadium.se/guider" rel="nofollow" target="_self" style="color:#AAA;">GUIDER</a><br>
-            <a href="http://www.stadium.se/varumarken/utforsaljning" rel="nofollow" target="_self" style="color:#AAA;">UTFÖRSÄLJNING</a></font></font></font></div></td>
-        <td align="left" valign="top" width="165"><div><font size="2"><font size="2"><font color="#ffffff" size="2"><font color="#ffffff" size="2"><a href="http://www.stadium.se/is-bin/INTERSHOP.enfinity/WFS/Stadium-SwedenB2C-Site/sv_SE/-/SEK/cc_ViewDepartments-ShowStadiumShops?TopMenuSelected=StadiumStores" rel="nofollow" target="_self" style="color:#AAA;">VÅRA BUTIKER</a></font><br>
-            <font color="#ffffff" size="2"><a href="http://www.stadium.se/om-stadium/foretaget" rel="nofollow" target="_self" style="color:#AAA;">OM STADIUM</a><br>
-            <a href="http://www.mynewsdesk.com/se/pressroom/stadium_" rel="nofollow" target="_blank" style="color:#AAA;">PRESSKONTAKT</a><br>
-            <a href="http://karriar.stadium.se" rel="nofollow" target="_blank" style="color:#AAA;">KARRIÄR</a><br>
-            <a href="http://www.stadium.se/om-stadium/stadiums-ansvar/vart-ansvar-start" rel="nofollow" target="_self" style="color:#AAA;">VÅRT ANSVAR</a></font></font></font></font></div></td>
+        <td align="left" valign="top" width="165"><font color="#AAA;" size="2"><a href="#"><font size="2" style="color:#AAA;">PREGUNTAS Y RESPUESTAS</font></a> <br>
+          <a href="#" style="color:#AAA;">
+CONTÁCTENOS</a> </font></td>
+        <td align="left" valign="top" width="165"><font color="#ffffff" size="2"><a href="#" rel="nofollow" style="color:#AAA;">MI SITIO</a> <br>
+          <a href="#" rel="nofollow" style="color:#AAA;">
+Inscríbase hoy mismo!</a> <br>          
+          <a href="#" rel="nofollow" style="color:#AAA;">MEDLEMSPRISER</a></font></td>
+        <td align="left" valign="top" width="165"><font color="#ffffff" size="2"><a href="#" rel="nofollow" style="color:#AAA;">EQUIPO DE VENTAS</a> <br>
+          <a href="#" rel="nofollow" style="color:#AAA;">SPORTSCAMP</a><br>
+          <a href="#" rel="nofollow" style="color:#AAA;">EZPORTO OUTLET</a></font></td>
+        <td align="left" valign="top" width="165"><font color="#ffffff" size="2"><font color="#ffffff"><a href="#" target="_blank" style="color:#AAA;">FACEBOOK</a> <br>
+          <font size="2"><a href="#" rel="nofollow" target="_blank" style="color:#AAA;">YOUTUBE</a><br>
+          <font size="2"><a href="#" target="_blank" style="color:#AAA;">INSTAGRAM</a></font></font></font></font></td>
+        <td align="left" valign="top" width="165"><div><font size="2"><font size="2"><font color="#ffffff" size="2"><a href="#" rel="nofollow" style="color:#AAA;" target="_self">ofertas de paquetes</a></font><br>
+            <font color="#ffffff" size="2"><a href="#" rel="nofollow" target="_self" style="color:#AAA;">
+CONDICIONES DE USO</a><br>
+            <a href="#" rel="nofollow" target="_self" style="color:#AAA;">ASISTENTES</a><br>
+            <a href="#" rel="nofollow" target="_self" style="color:#AAA;">LIQUIDACIÓN</a></font></font></font></div></td>
+        <td align="left" valign="top" width="165"><div><font size="2"><font size="2"><font color="#ffffff" size="2"><font color="#ffffff" size="2"><a href="#" rel="nofollow" target="_self" style="color:#AAA;">NUESTRAS TIENDAS</a></font><br>
+            <font color="#ffffff" size="2"><a href="#" rel="nofollow" target="_self" style="color:#AAA;">ACERCA DE EZPORTO</a><br>
+            <a href="#" rel="nofollow" target="_blank" style="color:#AAA;">PRENSA CONTACTO</a><br>
+            <a href="#" rel="nofollow" target="_blank" style="color:#AAA;">CARRERA</a><br>
+            <a href="#" rel="nofollow" target="_self" style="color:#AAA;">
+NUESTRA RESPONSABILIDAD</a></font></font></font></font></div></td>
       </tr>
     </tbody>
   </table>
@@ -836,7 +847,7 @@ carrusel de imagenes de portada
         <td colspan="8" height="10" valign="top"></td>
       </tr>
       <tr align="center" valign="middle">
-        <td colspan="8" align="center" valign="middle"><font color="#ffffff" size=" 2"><a href="http://www.stadium.se/"><img src="/is-bin/intershop.static/WFS/Stadium-Site/Stadium/sv_SE/stadium/images/Diverse/swe-flag.png"></a> &nbsp;<a href="http://www.stadium.dk/"><img src="/is-bin/intershop.static/WFS/Stadium-Site/Stadium/sv_SE/stadium/images/Diverse/dk-flag.png"></a> &nbsp;<a href="http://www.stadium.fi/"><img src="/is-bin/intershop.static/WFS/Stadium-Site/Stadium/sv_SE/stadium/images/Diverse/fin-flag.png"></a> <a href="http://www.stadium.de/"><img src="/is-bin/intershop.static/WFS/Stadium-Site/Stadium/sv_SE/stadium/images/Diverse/de-flag.jpg"></a></font><font color="#ffffff" size=" 2"> &nbsp; | &nbsp; <font color="#ffffff" size=" 2">Stadium Sweden AB 601 60 &nbsp;Norrköping, Orgnr. 556236-4397</font> |<font color="#cccccc" size=" 2"> &nbsp; &nbsp; <a href="http://www.stadium.se/is-bin/INTERSHOP.enfinity/WFS/Stadium-SwedenB2C-Site/sv_SE/-/SEK/ViewApplication-Sitemap" style="color:#AAA;">Sitemap</a></font> |<font color="#cccccc" size=" 2"> &nbsp; &nbsp; <a href="http://www.stadium.se/om-stadium/stadium-se/information-om-cookies-kakor" style="color:#AAA;">Cookies</a></font> </font></td>
+        <td colspan="8" align="center" valign="middle"><font color="#ffffff" size=" 2"><a href="#"><img src="images/colombia.png"></a> </font><font color="#ffffff" size=" 2"> &nbsp; | &nbsp; <font color="#ffffff" size=" 2">Calle 23 # 1 a 99, Medellín, Antioquia, Colombia &nbsp;</font> |<font color="#cccccc" size=" 2"> &nbsp; &nbsp; <a href="#" style="color:#AAA;">Sitemap</a></font> |<font color="#cccccc" size=" 2"> &nbsp; &nbsp; <a href="#" style="color:#AAA;">Cookies</a></font> </font></td>
       </tr>
       <tr>
         <td colspan="8" height="10" valign="top"></td>
@@ -852,7 +863,7 @@ carrusel de imagenes de portada
   <script>
 			var cookieInfoOpener = document.getElementById('cookieInfoOpener');
 			if(cookieInfoOpener){
-				cookieInfoOpener.href = "http://www.stadium.se/is-bin/INTERSHOP.enfinity/WFS/Stadium-SwedenB2C-Site/sv_SE/-/SEK/ViewApplication-ShowCookieInformation?parametername1=&parametervalue1=&parametername2=&parametervalue2=&parametername3=&parametername4=&parametervalue4=&BackFromLogin=&ArticleID=&TopMenuSelected=";
+				cookieInfoOpener.href = "#";
 			}
 		</script> 
 </div>
