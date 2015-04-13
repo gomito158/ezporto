@@ -101,55 +101,55 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Zapatos</li>                
-                <li><a href="?r=site/construction">Entrenamiento &emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Running</a></li>
-                <li><a href="?r=site/construction">Camping/Monta&ntilde;ismo</a></li>
-                <li><a href="?r=site/construction">F&uacute;tbol &emsp;&emsp;&emsp;&emsp; </a></li>
-                <li><a href="?r=site/construction">Baloncesto &emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Baseball &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Ciclismo &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Estilo Deportivio</a></li>
+                <li><a href="?r=hombres/zhentrenamiento">Entrenamiento &emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres/zhrunning">Running</a></li>
+                <li><a href="?r=hombres/zhcamping">Camping/Monta&ntilde;ismo</a></li>
+                <li><a href="?r=hombres/zhfutbol">F&uacute;tbol &emsp;&emsp;&emsp;&emsp; </a></li>
+                <li><a href="?r=hombres/zhbaloncesto">Baloncesto &emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres/zhbaseball">Baseball &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres/zhtennis">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres/zhciclismo">Ciclismo &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres/zhestilodeportivo">Estilo Deportivio</a></li>
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Ropa</li>                
-                <li><a href="?r=site/construction">Camisetas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Camisillas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Busos & Camibusos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Chaquetas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Sudaderas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>    
-                <li><a href="?r=site/construction">Pantalonetas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>    
-                <li><a href="?r=site/construction">Pantalones & Licras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>             
-                <li><a href="?r=site/construction">Conjuntos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Trajes de Ba&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Camisetas de Equipos</a></li>
+                <li><a href="?r=hombres-ropa/rhcamisetas">Camisetas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-ropa/rhcamisillas">Camisillas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-ropa/rhbusos">Busos & Camibusos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-ropa/rhchaquetas">Chaquetas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-ropa/rhsudaderas">Sudaderas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>    
+                <li><a href="?r=hombres-ropa/rhpantalonetas">Pantalonetas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>    
+                <li><a href="?r=hombres-ropa/rhpantalones">Pantalones & Licras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>             
+                <li><a href="?r=hombres-ropa/rhconjuntos">Conjuntos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-ropa/rhtbano">Trajes de Ba&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-ropa/rhcamequipo">Camisetas de Equipos</a></li>
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Accesorios</li>                
-                <li><a href="?r=site/construction">Bolsos & Ri&ntilde;oneras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Gorras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Medias</a></li>                
+                <li><a href="?r=hombres-accesorios/acchbolsos">Bolsos & Ri&ntilde;oneras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-accesorios/acchgorras">Gorras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-accesorios/acchmedias">Medias</a></li>                
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Deportes</li>                
-                <li><a href="?r=site/construction">F&uacute;tbol &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Baloncesto &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Baseball &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Running &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Rugby &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Ciclismo &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Nataci&oacute;n &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Golf &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Patinaje &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Artes Marciales &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>   
-                <li><a href="?r=site/construction">Camping / Monta&ntilde;ismo</a></li>             
+                <li><a href="?r=hombres-deportes/dephfutbol">F&uacute;tbol &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephbaloncesto">Baloncesto &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephbaseball">Baseball &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephrunning">Running &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephrugby">Rugby &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephtennis">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephciclismo">Ciclismo &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephnatacion">Nataci&oacute;n &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephgolf">Golf &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephpatinaje">Patinaje &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=hombres-deportes/dephartmarciales">Artes Marciales &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>   
+                <li><a href="?r=hombres-deportes/dephcamping">Camping / Monta&ntilde;ismo</a></li>             
               </ul>
             </li>
           
@@ -164,48 +164,48 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Zapatos</li>                
-                <li><a href="?r=site/construction"> Entrenamiento &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Running &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Camping / Monta&ntilde;ismo</a></li>
-                <li><a href="?r=site/construction">F&uacute;tbol &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Estilo Deportivo</a></li>                
+                <li><a href="?r=mujeres/zmentrenamiento"> Entrenamiento &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres/zmrunning">Running &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres/zmcamping">Camping / Monta&ntilde;ismo</a></li>
+                <li><a href="?r=mujeres/zmfutbol">F&uacute;tbol &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres/zmtennis">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres/zmestilodeportivo">Estilo Deportivo</a></li>                
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Ropa</li>                
-                <li><a href="?r=site/construction">Tops / Brasier / Sujetadores</a></li>
-                <li><a href="?r=site/construction">Faldas & Vestidos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Shorts &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Pantalones & Licras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Sudaderas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Trajes de Ba&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>              
-                <li><a href="?r=site/construction">Conjuntos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Camisas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Chaquetas</a></li>
+                <li><a href="?r=mujeres-ropa/rmtop">Tops / Brasier / Sujetadores</a></li>
+                <li><a href="?r=mujeres-ropa/rmfaldas">Faldas & Vestidos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-ropa/rmshorts">Shorts &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-ropa/rmpantalones">Pantalones & Licras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-ropa/rmsudaderas">Sudaderas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-ropa/rmtbano">Trajes de Ba&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>              
+                <li><a href="?r=mujeres-ropa/rmconjuntos">Conjuntos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-ropa/rmcamisas">Camisas &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-ropa/rmchaquetas">Chaquetas</a></li>
                 
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Accesorios</li>                
-                <li><a href="?r=site/construction">Maletas & Bolsos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Ri&ntilde;oneras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Gorras & Viseras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Medias &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Cintillos</a></li>                
+                <li><a href="?r=mujeres-accesorios/accmbolsos">Maletas & Bolsos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-accesorios/accmrinoneras">Ri&ntilde;oneras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-accesorios/accmgorras">Gorras & Viseras &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-accesorios/accmmedias">Medias &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-accesorios/accmcintillos">Cintillos</a></li>                
               </ul>
              </li>
              <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Deportes</li>                
-                <li><a href="?r=site/construction">Entrenamiento &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Running &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Yoga &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Nataci&oacute;n &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Camping / Monta&ntilde;ismo</a></li>                              
+                <li><a href="?r=mujeres-deportes/depmentrenamiento">Entrenamiento &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-deportes/depmrunning">Running &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-deportes/depmtennis">Tennis &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-deportes/depmyoga">Yoga &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-deportes/depmnatacion">Nataci&oacute;n &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=mujeres-deportes/depmcamping">Camping / Monta&ntilde;ismo</a></li>                              
               </ul>
              </li>
           </ul>
@@ -268,112 +268,114 @@ $this->title = 'EZPORTO - TIENDA DEPORTIVA';
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">F&uacute;tbol</li>                
-                <li><a href="?r=site/construction">Guayos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li> 
-                <li><a href="?r=site/construction">Selecci&oacute;n Colombia &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>          
-                <li><a href="?r=site/construction">Uniformes de Equipos</a></li>       
+                <li><a href="?r=deportes-futbol/fdepguayos">Guayos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-futbol/fdepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-futbol/fdepaccesorios">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li> 
+                <li><a href="?r=deportes-futbol/fdepselcolombia">Selecci&oacute;n Colombia &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>          
+                <li><a href="?r=deportes-futbol/fdepuniformes">Uniformes de Equipos</a></li>       
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Running</li>                
-                <li><a href="?r=site/construction">Zapatos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>                
+                <li><a href="?r=deportes-running/rndepzapatos">Zapatos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-running/rndepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-running/rndepaccesorios">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>                
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Baloncesto</li>                
-                <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>               
+                <li><a href="?r=deportes-baloncesto/baldepzapatos">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-baloncesto/baldepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-baloncesto/baldepaccesorios">Accesorios</a></li>               
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Entrenamiento</li>                
-                <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Gym</a></li>                  
+                <li><a href="?r=deportes-entrenamiento/entdepzapatos">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-entrenamiento/entdepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-entrenamiento/entdepaccesorios">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-entrenamiento/entdepgym">Gym</a></li>                  
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Tennis</li>                
-                <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>               
+                <li><a href="?r=deportes-tennis/tndepzapatos">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-tennis/tndepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-tennis/tndepaccesorios">Accesorios</a></li>               
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">B&aacute;dminton</li>                
-                <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>               
+                <li><a href="?r=deportes-badminton/badepzapatos">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-badminton/badepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-badminton/badepaccesorios">Accesorios</a></li>               
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Acuaticos</li>                
-                <li><a href="?r=site/construction">Trajes de Ba&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>                
-                <li><a href="?r=site/construction">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>               
+                <li><a href="?r=deportes-acuaticos/acdeptbano">Trajes de Ba&ntilde;o &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>                
+                <li><a href="?r=deportes-acuaticos/acdepaccesorios">Accesorios &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>               
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Golf</li>                
-                 <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>                   
+                 <li><a href="?r=deportes-golf/glfdepzapatos">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-golf/glfdepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-golf/glfdepaccesorios">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Baseball</li>                
-                 <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>                   
+                 <li><a href="?r=deportes-baseball/bsbdepzapatos">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-baseball/bsbdepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-baseball/bsbdepaccesorios">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Ciclismo</li>                
-                 <li><a href="?r=site/construction">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>                   
+                 <li><a href="?r=deportes-ciclismo/cicldepzapatos">Zapato &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-ciclismo/cicldepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-ciclismo/cicldepaccesorios">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Patinaje</li>                
-                 <li><a href="?r=site/construction">Patines &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>                   
+                 <li><a href="?r=deportes-patinaje/patdeppatines">Patines &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>  
+                <li><a href="?r=deportes-patinaje/patdepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-patinaje/patdepaccesorios">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Artes Marciales</li>                 
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>                   
+                <li><a href="?r=deportes-art-marciales/artdepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-art-marciales/artdepaccesorios">Accesorios</a></li>                   
               </ul>
             </li>
              <li class="mega-menu-column">
               <ul>
-                <li class="nav-header">Rugby</li>                 
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>                   
+                <li class="nav-header">Rugby</li>
+                <li><a href="?r=deportes-rugby/rbdepzapatos">Zapatos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>                 
+                <li><a href="?r=deportes-rugby/rbdepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-rugby/rbdepaccesorios">Accesorios</a></li>                   
               </ul>
             </li>
             <li class="mega-menu-column">
               <ul>
                 <li class="nav-header">Extremos</li>                 
-                <li><a href="?r=site/construction">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
-                <li><a href="?r=site/construction">Accesorios</a></li>                   
+                <li><a href="?r=deportes-extremos/extdepzapatos">Zapatos &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-extremos/extdepropa">Ropa &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a></li>
+                <li><a href="?r=deportes-extremos/extdepaccesorios">Accesorios</a></li>                   
               </ul>
             </li>
           </ul>
