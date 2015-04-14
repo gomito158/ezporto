@@ -3,4 +3,10 @@
         "kartik-v/yii2-widgets": "*",
         "kartik-v/yii2-grid": "dev-master"
     }
+	
+	"require": {
+  // ...
+  "linchpinstudios/yii2-foundation": "*",
+  // ...
+	},
 }
